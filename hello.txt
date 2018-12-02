@@ -3,3 +3,5 @@ how are you doing?
 I'm well, nice to see you!
 
 I'm typing some new text here.
+
+Michael adding text to hello.txt for all 3 of us to edit.
