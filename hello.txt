@@ -4,10 +4,7 @@ I'm well, nice to see you!
 
 I'm typing some new text here.
 
-<<<<<<< HEAD
 Michael adding text to hello.txt for all 3 of us to edit.
-=======
 	Clone groupRepo locally
 	Add a file(name your file as yourname.txt)
     Push your changes 
->>>>>>> be52598749cd612006a414d5b2da96b6c99d68ff
