@@ -3,3 +3,7 @@ how are you doing?
 I'm well, nice to see you!
 
 I'm typing some new text here.
+
+●	  Clone groupRepo locally
+●	  Add a file(name your file as yourname.txt)
+●	   Push your changes 
